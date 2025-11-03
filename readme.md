@@ -16,7 +16,7 @@ Open online using Binder:
 Use the following command to install the kernel locally for use in Jupyter Notebook, VSCode, IntelliJ, etc.:
 
 ```bash
-jbang install-kernel@jbangdev --java 25 jbang
+jbang install-kernel@jupyter-java --java 25 jbang
 ```
 
 ## Available Notebooks
